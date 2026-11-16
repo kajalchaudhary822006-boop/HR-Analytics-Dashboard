@@ -49,4 +49,4 @@ Practised data cleaning, data analysis, PivotTables, PivotCharts, and dashboard 
 Created as part of my Data Analytics learning journey.
 ## Dashboard Preview
 
-![HR Analytics Dashboard](HR_Dashboard.png)
+![HR Analytics Dashboard](HR_DASHBOARD.png)
